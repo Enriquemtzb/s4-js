@@ -1,0 +1,138 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: rgb(255, 255, 255);
+}
+
+header {
+    width: 100%;
+    height: 70px;
+}
+
+.tittle p a {
+    text-decoration: none;
+    width: 60%;
+    height: 50px;
+    padding-top: 10px;
+    float: left;
+    box-sizing: content-box;
+}
+
+.tittle p a {
+    color: rgba(247, 14, 14, 0.89);
+    font-size: 50px;
+}
+
+.tittle p a {
+    padding: 10;
+    background: rgb(255, 255, 255);
+    width: 90%;
+    max-width: 350px;
+    margin: auto;
+    padding-left: 30px;
+}
+
+.tittle p a {
+    display: inline-block;
+    text-align: left;
+    font-weight: 750;
+}
+
+.tittle p a {
+    text-decoration: none;
+    width: 30%;
+    height: 60px;
+    padding-top: 10px;
+    float: left;
+}
+
+.imagen p a {
+    float: center;
+    padding-left: 30px;
+}
+
+.busqueda p a {
+    text-decoration: none;
+    width: 20%;
+    height: 10px;
+    padding-top: 10px;
+    float: left;
+    box-sizing: content-box;
+}
+
+.busqueda p a {
+    color: rgb(35, 2, 124);
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+.busqueda p a {
+    padding: 0;
+    width: 20%;
+    max-width: 90px;
+    margin: auto;
+}
+
+.busqueda p a {
+    display: inline-block;
+    text-align: left;
+    font-weight: 500;
+}
+
+.boton p a {
+    background: #eb94d0;
+    padding: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.boton p a {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 27px;
+    padding: 19px;
+    text-decoration: none;
+}
+
+.boton p a {
+    background: #2079b0;
+    background-image: -webkit-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -ms-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: -o-linear-gradient(top, #2079b0, #eb94d0);
+    background-image: linear-gradient(to bottom, #2079b0, #eb94d0);
+    text-decoration: none;
+}
+
+.content p a {
+    color: rgb(109, 109, 110);
+    font-size: 20px;
+}
+
+.content p a {
+    text-decoration: none;
+    width: 90%;
+    height: 30px;
+    padding-top: 10px;
+    float: center;
+    box-sizing: content-box;
+}
+
+.content p a {
+    padding: 10;
+    width: 90%;
+    max-width: 300px;
+    margin: auto;
+}
+
+.content p a {
+    display: inline-block;
+    text-align: center;
+    font-weight: 700;
+}
